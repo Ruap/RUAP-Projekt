@@ -2,6 +2,6 @@
 
 int main() {
 
-	printf("Pozdrav iz aplikacije Ivan Drulak\n");
+	printf("Pozdrav iz aplikacije Ivan Drulak R56788\n");
 	return 0;
 }
